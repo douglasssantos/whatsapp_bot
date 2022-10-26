@@ -1,0 +1,35 @@
+2022/10/06-00:22:13.353 24d0 Reusing MANIFEST C:\Users\Douglas S. Santos\Documents\Projetos\Rozan\BotWhatsapp\tokens\ws-sender-dev\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/06-00:22:13.354 24d0 Recovering log #657
+2022/10/06-00:22:13.481 24d0 Reusing old log C:\Users\Douglas S. Santos\Documents\Projetos\Rozan\BotWhatsapp\tokens\ws-sender-dev\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000657.log 
+2022/10/06-00:22:45.002 3a34 Level-0 table #677: started
+2022/10/06-00:22:45.089 3a34 Level-0 table #677: 1133595 bytes OK
+2022/10/06-00:22:45.091 3a34 Delete type=0 #657
+2022/10/06-00:23:34.282 29bc Compacting 1@0 + 0@1 files
+2022/10/06-00:23:34.331 29bc Generated table #678@0: 21824 keys, 359158 bytes
+2022/10/06-00:23:34.349 29bc Generated table #679@0: 9126 keys, 251136 bytes
+2022/10/06-00:23:34.349 29bc Compacted 1@0 + 0@1 files => 610294 bytes
+2022/10/06-00:23:34.350 29bc compacted to: files[ 0 2 17 0 0 0 0 ]
+2022/10/06-00:23:34.351 29bc Delete type=2 #677
+2022/10/06-00:23:36.263 1d40 Compacting 1@1 + 9@2 files
+2022/10/06-00:23:36.388 1d40 Generated table #680@1: 42569 keys, 2262121 bytes
+2022/10/06-00:23:36.465 1d40 Generated table #681@1: 15428 keys, 2196121 bytes
+2022/10/06-00:23:36.539 1d40 Generated table #682@1: 3018 keys, 2161366 bytes
+2022/10/06-00:23:36.602 1d40 Generated table #683@1: 3254 keys, 2165284 bytes
+2022/10/06-00:23:36.653 1d40 Generated table #684@1: 3104 keys, 2157861 bytes
+2022/10/06-00:23:36.714 1d40 Generated table #685@1: 3298 keys, 2152579 bytes
+2022/10/06-00:23:36.835 1d40 Generated table #686@1: 28755 keys, 2240602 bytes
+2022/10/06-00:23:37.017 1d40 Generated table #687@1: 26819 keys, 2271092 bytes
+2022/10/06-00:23:37.126 1d40 Generated table #688@1: 20579 keys, 2210136 bytes
+2022/10/06-00:23:37.129 1d40 Generated table #689@1: 153 keys, 27819 bytes
+2022/10/06-00:23:37.129 1d40 Compacted 1@1 + 9@2 files => 19844981 bytes
+2022/10/06-00:23:37.130 1d40 compacted to: files[ 0 1 18 0 0 0 0 ]
+2022/10/06-00:23:37.131 1d40 Delete type=2 #666
+2022/10/06-00:23:37.131 1d40 Delete type=2 #667
+2022/10/06-00:23:37.131 1d40 Delete type=2 #668
+2022/10/06-00:23:37.131 1d40 Delete type=2 #669
+2022/10/06-00:23:37.131 1d40 Delete type=2 #670
+2022/10/06-00:23:37.131 1d40 Delete type=2 #671
+2022/10/06-00:23:37.131 1d40 Delete type=2 #672
+2022/10/06-00:23:37.131 1d40 Delete type=2 #673
+2022/10/06-00:23:37.131 1d40 Delete type=2 #674
+2022/10/06-00:23:37.131 1d40 Delete type=2 #678
